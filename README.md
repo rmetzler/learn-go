@@ -18,3 +18,7 @@ You need to have [Convey](http://smartystreets.github.io/goconvey/) installed. A
 - use `$ go get github.com/rmetzler/learn-go`
 - start the Convey test with `$ convey` (assuming `$GOPATH/bin/` is in your path)
 - go to [http://127.0.0.1:8080](http://127.0.0.1:8080) to see the test output
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rmetzler/learn-go/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
